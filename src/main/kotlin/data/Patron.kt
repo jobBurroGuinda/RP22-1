@@ -5,5 +5,6 @@ open class Patron(clase:String, vector:DoubleArray) {
     val claseResultante = ""
     var vector : DoubleArray = vector.clone()
 
+    var javaPrueba = ClaseJava()
 }
 
